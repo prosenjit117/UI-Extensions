@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkextension_Company_Management_Portal=self.webpackChunkextension_Company_Management_Portal||[]).push([[44],{49044:(e,t,a)=>{a.r(t),a.d(t,{default:()=>o});const o=a(28352)},28352:(e,t,a)=>{var o=a(97104);t.createRoot=o.createRoot,t.hydrateRoot=o.hydrateRoot}}]);
